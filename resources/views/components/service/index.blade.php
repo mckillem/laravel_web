@@ -1,3 +1,5 @@
+<a href="/kontakt">Kontakt</a>
+
 @forelse ($services as $service)
 
 <ul>
